@@ -10,9 +10,7 @@ body:
   attributes:
     label: IMPORTANT NOTE
     description: |
-      This is a public system; anyone on the internet can read the information 
-      you provide in this form. As such, please take extra care *not* to include 
-      any confidential data, which may include:
+      This is a public system; anyone on the internet can read the information you provide in this form. As such, please take extra care *not* to include any confidential data, which may include:
 
       - Personal Identifiable Information (PII) like names, email addresses, phone numbers, ...
       - Company/customer/tenant names
