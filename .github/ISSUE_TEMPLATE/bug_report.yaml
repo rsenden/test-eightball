@@ -8,8 +8,8 @@ body:
       Thank you for taking the time to submit a bug report. Support on our open-source software is provided on a best-effort basis, but we'll do our best to review your bug report and provide a fix as necessary. 
 - type: checkboxes
   attributes:
-    label: |
-      # IMPORTANT NOTE
+    label: IMPORTANT NOTE
+    description: |
       This is a public system; anyone on the internet can read the information 
       you provide in this form. As such, please take extra care *not* to include 
       any confidential data, which may include:
