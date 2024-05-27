@@ -26,7 +26,7 @@ body:
       - Private URLs that expose the host names of your Fortify or other products
       - Credentials like usernames, passwords or tokens
 
-      Such information is commonly exposed in screen shots, log files, or example command invocations. Although we do prefer full logs and screenshots, please make sure to redact any such confidential or PII data before posting.
+      Such information is often inadvertently exposed in screen shots, log files, or example command invocations. Although we do prefer full logs and screenshots, please make sure to redact any such confidential or PII data before posting.
 - type: textarea
   attributes:
     label: Question
