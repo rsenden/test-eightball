@@ -7,11 +7,11 @@ body:
     value: |
       ## INTRODUCTION
     
-      Thank you for taking the time to submit a bug report. Support on most of our open-source software is provided on a best-effort basis, but we'll do our best to review your bug report and provide a fix as necessary. Please review repository documentation for more details on support status.
+      Thank you for taking the time to submit a bug report. We'll try to promptly review your bug report, but please note that support on most of our open-source software is provided on a best-effort basis. Please review repository documentation for more details on support status.
       
       ### POSTING INSTRUCTIONS
       
-      Before posting, please search the list of existing issues (including closed issues) to see whether a similar bug report already exists. If so, please comment on the existing bug report if necessary, rather than posting a duplicate bug report.
+      Before posting, please search the list of existing issues (including closed issues) to see whether a similar bug report already exists. If so, please comment on the existing bug report if necessary, rather than posting a new one.
       
       If applicable, please assign the appropriate labels to this bug report from the `Labels` section on the right-hand side of this form. 
       
