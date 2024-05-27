@@ -13,7 +13,7 @@ body:
       
       Before posting, please search the list of existing issues (including closed issues) to see whether a similar bug report already exists. If so, please comment on the existing bug report if necessary, rather than posting a duplicate bug report.
       
-      If applicable, please assign the appropriate labels to this question from the `Labels` section on the right-hand side of this form. 
+      If applicable, please assign the appropriate labels to this bug report from the `Labels` section on the right-hand side of this form. 
       
       All fields on this form accept Markdown-formatted text. Please make sure to use proper Markdown formatting, like using proper literal text/code blocks for sample commands, stack traces, etcetera. Please use the Preview tab on each field to review how your input will be formatted.
       
