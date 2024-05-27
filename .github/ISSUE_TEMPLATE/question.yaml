@@ -9,9 +9,13 @@ body:
     
       Thank you for taking the time to raise a question. Support on most of our open-source software is provided on a best-effort basis, but we'll do our best to review and answer your question. Please review repository documentation for more details on support status.
       
-      ### FORMATTING
+      ### POSTING INSTRUCTIONS
       
-      All fields on this form accept Markdown-formatted text. Please make sure to use proper Markdown formatting, like using proper literal text/code blocks for sample commands, stack traces, etcetera. After posting, please review your issue for any incorrect formatting and edit accordingly if necessary.
+      Before posting, please search the list of existing issues (including closed issues) to see whether a similar question already exists. If so, please comment on the existing question if necessary, rather than posting a duplicate question.
+      
+      If applicable, please assign the appropriate labels to this question from the right-hand side of this form. 
+      
+      All fields on this form accept Markdown-formatted text. Please make sure to use proper Markdown formatting, like using proper literal text/code blocks for sample commands, stack traces, etcetera. Please use the Preview tab on each field to review how your input will be formatted.
       
       ### CONFIDENTIALITY WARNING
       
