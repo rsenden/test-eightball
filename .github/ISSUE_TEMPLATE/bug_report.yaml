@@ -55,7 +55,7 @@ body:
         - **SSC**: 24.2.0
         - **fcli**: 2.4.0
     placeholder: |
-        Describe the environment in which you're experiencing the issue, like Operating System, product versions, ...
+        Describe the environment in which you're experiencing the issue, like operating system, product versions, ...
     render: markdown
   validations:
     required: false

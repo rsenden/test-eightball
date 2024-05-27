@@ -1,0 +1,31 @@
+name: Enhancement Request
+description: Submit a feature or enhancement request
+labels: ["enhancement"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      ## INTRODUCTION
+    
+      Thank you for taking the time to submit an enhancement request. Support on most of our open-source software is provided on a best-effort basis, but we'll do our best to review your enhancement request. Please review repository documentation for more details on support status.
+      
+      ### FORMATTING
+      
+      All fields on this form accept Markdown-formatted text. Please make sure to use proper Markdown formatting, like using proper literal text/code blocks for sample commands, stack traces, etcetera. After posting, please review your issue for any incorrect formatting and edit accordingly if necessary.
+      
+      ### CONFIDENTIALITY WARNING
+      
+      This is a public system; anyone on the internet can read the information you provide in this form. As such, please take extra care *not* to include any confidential data, which may include:
+
+      - Personal Identifiable Information (PII) like names, email addresses, phone numbers, ...
+      - Company/customer/tenant names
+      - Private URLs that expose the host names of your Fortify or other products
+      - Credentials like usernames, passwords or tokens
+
+      Such information is commonly exposed in screen shots, log files, or example command invocations. Although we do prefer full logs and screenshots, please make sure to redact any such confidential or PII data before posting.
+- type: textarea
+  attributes:
+    label: Enhancement Request
+    description: A full description of the feature or enhancement that you'd like to request.   
+  validations:
+    required: true
